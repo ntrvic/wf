@@ -18,6 +18,7 @@ Feature: Tasks
     | CSS Rules                  | N/A   |
     | Default Value              | N/A   |
     | Do Not Use in Adjudication | N/A   |
+    test
 
     Then I expect to see the answer with the name "test"
 
